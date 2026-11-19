@@ -50,20 +50,62 @@ I work at the intersection of **AI research and software engineering**: making e
 </tr>
 </table>
 
-## Toolkit
+## Tech stack
 
+<p>Tools I use across AI research, data pipelines, and software development.</p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>⌘ &nbsp; Programming</h3>
+<p><img src="https://skillicons.dev/icons?i=python,js,cs,cpp,bash&amp;theme=dark" height="44" alt="Python, JavaScript, C#, C++, Bash"></p>
+<p><b>Python · JavaScript · C# · C++ · Bash</b><br>SQL for querying and application data.</p>
+</td>
+<td width="50%" valign="top">
+<h3>◈ &nbsp; Machine learning</h3>
+<p><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&amp;theme=dark" height="44" alt="PyTorch, TensorFlow, scikit-learn"></p>
+<p><b>PyTorch · TensorFlow · scikit-learn</b><br>CNNs, transformers, forecasting, quantization, and model evaluation.</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>▣ &nbsp; Web &amp; applications</h3>
+<p><img src="https://skillicons.dev/icons?i=react,nextjs,flask,fastapi,html,css,dotnet&amp;theme=dark" height="40" alt="React, Next.js, Flask, FastAPI, HTML, CSS, .NET"></p>
+<p><b>React · Next.js · Flask · FastAPI</b><br>HTML, CSS, and ASP.NET MVC.</p>
+</td>
+<td width="50%" valign="top">
+<h3>✦ &nbsp; LLMs &amp; explainability</h3>
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-172A45?style=flat-square&amp;logo=python&amp;logoColor=60A5FA">
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-172A45?style=flat-square&amp;logo=pytorch&amp;logoColor=FB923C">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-172A45?style=flat-square&amp;logo=typescript&amp;logoColor=60A5FA">
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-172A45?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white">
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-172A45?style=flat-square&amp;logo=fastapi&amp;logoColor=2DD4BF">
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-172A45?style=flat-square&amp;logo=linux&amp;logoColor=FDE68A">
-  <img alt="Git" src="https://img.shields.io/badge/Git-172A45?style=flat-square&amp;logo=git&amp;logoColor=FB923C">
+<img src="https://img.shields.io/badge/LangChain-123C3A?style=for-the-badge&amp;logo=langchain&amp;logoColor=5EEAD4" alt="LangChain">
+<img src="https://img.shields.io/badge/RAG-172A45?style=for-the-badge&amp;logoColor=white" alt="Retrieval-augmented generation">
+<img src="https://img.shields.io/badge/XAI-172A45?style=for-the-badge" alt="Explainable AI">
 </p>
+<p><b>LangChain · RAG · Explainable AI</b><br>Evidence attribution, model extraction, weight reconstruction, and bit-flip evaluation.</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>▥ &nbsp; Data &amp; experimentation</h3>
+<p>
+<img src="https://img.shields.io/badge/NumPy-172A45?style=for-the-badge&amp;logo=numpy&amp;logoColor=60A5FA" alt="NumPy">
+<img src="https://img.shields.io/badge/Pandas-172A45?style=for-the-badge&amp;logo=pandas&amp;logoColor=C4B5FD" alt="Pandas">
+<img src="https://img.shields.io/badge/SQL-172A45?style=for-the-badge" alt="SQL">
+</p>
+<p><b>NumPy · Pandas · SQL</b><br>Dataset design, annotation, cleaning, validation, experimental design, and statistical evaluation.</p>
+</td>
+<td width="50%" valign="top">
+<h3>⚙ &nbsp; Development &amp; computing</h3>
+<p><img src="https://skillicons.dev/icons?i=git,github,linux,docker,vercel,latex&amp;theme=dark" height="42" alt="Git, GitHub, Linux, Docker, Vercel, LaTeX"></p>
+<p><b>Git · GitHub · Linux · Docker · Vercel · LaTeX</b><br>SLURM, HPC, MPI, multiprocessing, and MapReduce.</p>
+</td>
+</tr>
+</table>
 
-**Research:** explainable AI, RAG, model evaluation, neural-network security and reliability.  
-**Engineering:** Python and TypeScript applications, interactive interfaces, research computing.
+<details>
+<summary><b>Additional familiarity</b></summary>
+<p>LangGraph · Model Context Protocol (MCP) · Jev (TypeSafe AI)</p>
+</details>
+
 
 ---
 
